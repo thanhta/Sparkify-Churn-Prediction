@@ -57,7 +57,7 @@ The main point here is to find features that might be used for the churn model p
 ## Additional
 The project results are based mainly on a mini subset of the data (128MB), so it is recommended to finish the project with the full dataset (12GB). It would be beneficial and effective to observe the results with the full dataset and see the differences.
 
-More detailed findings and analysis illustrated with graphs can be found in **the blog post on** ***[Medium website](https://medium.com/@thanhta2010/do-you-know-it-professionals-for-both-males-and-females-in-us-got-paid-much-better-comparing-with-e0a4e16187a8)***
+More detailed findings and analysis illustrated with graphs can be found in **the blog post on** ***[Medium website](https://medium.com/@thanhta2010/using-pyspark-mllib-to-predict-customer-churn-17c0337d8d93)***
 
 ## Acknowledgments:
 Thanks the Udacity team for providing this project and work space to work on as part of the ***[Data Science Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025)***. I have gained a lot of knowledge about Big data environments using Spark and learn how to use Spark MLlib to build machine learning models with large datasets, far beyond what could be done with non-distributed technologies like scikit-learn. 
